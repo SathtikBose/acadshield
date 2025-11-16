@@ -1,7 +1,5 @@
 # File Tree: acadshield
 
-**Generated:** 11/16/2025, 8:10:41 PM **Root Path:** `c:\Users\satht\OneDrive\Documents\Project\react\acadshield`
-
 ```
 ├── 📁 public
 │   └── 🖼️ icon.png
